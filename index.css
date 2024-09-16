@@ -1,0 +1,74 @@
+
+
+.fejlec{
+    background-color: rgb(85, 179, 243);
+}
+
+a.markanev{
+    font-weight: bold;
+}
+
+.kepkont{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 10px;
+    
+}
+
+.marka-logok-hatter{
+    background-color: red;
+}
+
+.hatter{
+    background-color: rgb(211, 208, 208);
+}
+
+.logo a {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#adidas-logo{
+    
+    width: 50%;
+    height: auto;
+
+}
+
+#puma-logo{
+    width: 61%;
+    height: auto;
+}
+
+#nike-logo{
+    width: 60%;
+    height: auto;
+}
+
+#reebok-logo{
+    width: 50%;
+    height: auto;
+}
+
+
+
+#adidas-logo:hover{
+    opacity: 0.5;
+}
+
+
+#puma-logo:hover{
+    opacity: 0.5;
+}
+
+#nike-logo:hover{
+   opacity: 0.5;
+}
+
+#reebok-logo:hover{
+    opacity: 0.5;
+}
+
+
